@@ -28,6 +28,7 @@ tree](https://github.com/agoric-labs/esm/tree/Agoric#readme).  We produced
 yarn pub:agoric
 git checkout -B Agoric-built
 git stash pop
+git add -f esm/loader.js
 git commit -a -m "Built by pub:agoric"
 git push -f origin Agoric-built
 ```
