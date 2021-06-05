@@ -8,7 +8,6 @@
 .pm2
 .vscode
 /build
-/esm
 /node_modules
 /src/vendor
 /test/env/prefix/bin
